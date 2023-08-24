@@ -18,7 +18,8 @@ public class App01 {
         num2 = sc.nextInt();
         System.out.print("Terceiro número: ");
         num3 = sc.nextInt();
-
+        sc.close();
+        
         System.out.println("------------------------------------");
         System.out.println("Números em ordem crescente:");
         System.out.println("------------------------------------");

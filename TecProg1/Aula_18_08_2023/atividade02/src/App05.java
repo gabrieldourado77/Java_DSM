@@ -10,6 +10,7 @@ public class App05 {
         System.out.println("------------------------------------");
         System.out.print("Digite um número inteiro: ");
         num = sc.nextInt();
+        sc.close();
         System.out.println("------------------------------------");
 
         if(num % 2 == 0){

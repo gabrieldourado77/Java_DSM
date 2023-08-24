@@ -24,6 +24,7 @@ public class App04 {
         num4 = sc.nextInt();
         System.out.print("5o número: ");
         num5 = sc.nextInt();
+        sc.close();
 
         System.out.println("------------------------------------");
         System.out.print("Maior número: ");

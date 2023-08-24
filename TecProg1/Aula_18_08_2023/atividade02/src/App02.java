@@ -22,6 +22,7 @@ public class App02 {
         nota3 = sc.nextFloat();
         System.out.print("4a nota: ");
         nota4 = sc.nextFloat();
+        sc.close();
 
         mediaFinal = (nota1 + nota2 + nota3 + nota4) / 4; 
 
@@ -35,6 +36,7 @@ public class App02 {
             System.out.println("reprovado");
         }
 
+        System.out.println("------------------------------------");
         System.out.println("Média final: "+mediaFinal);
         System.out.println("------------------------------------");
 

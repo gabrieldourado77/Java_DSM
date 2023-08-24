@@ -18,6 +18,7 @@ public class App03 {
         num2 = sc.nextInt();
         System.out.print("Terceiro número: ");
         num3 = sc.nextInt();
+        sc.close();
 
         System.out.println("------------------------------------");
         System.out.print("Maior número: ");

@@ -1,6 +1,0 @@
-Exercícios
-
-1 - Implemente um programa em Java, que leia dois números inteiros e mostre a sua soma.
-
-2 - Implemente um programa em Java, que leia dois números reais, calcule a multiplicação entre
-ambos e mostre o resultado.
